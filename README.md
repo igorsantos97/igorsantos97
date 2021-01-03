@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**igorsantos97/igorsantos97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Igor Santos, I am from Brazil 🇧🇷. I have been developing a front-end WEB since 2018. Recently I started to venture into User Interface (UI) and provide WEB solutions as a freelancer for companies (startups). 💻
 
-Here are some ideas to get you started:
+I have participated in several projects with people from different companies, such as: Facebook, IBM and Itau. Passionate about sharing knowledge and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌎🚶 "We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time." 🧠
+
+- 📍From SP living in Jandira
+- 💻 Front-End, UI Design e Freelancer
+- 🎓 Graduated in Internet Systems at FATEC in Carapicuíba at the end of 2020 and in Computer networks 2018 at SENAI in Jandira
+- 🎯 Looking for Work as a Front End
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorsantos097/)](https://www.linkedin.com/in/igorsantos097/)
